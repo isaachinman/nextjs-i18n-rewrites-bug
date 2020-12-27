@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# NextJs
+/.next/
+
+# Logs
+*.log
+
+# Env
+.env*.local
+
+# Infra
+.vercel
